@@ -1,10 +1,9 @@
 # Pancakeswap_Sniper_Bot_BSC
 Pancakeswap Sniper Bot based on BSC.
 # Change Log:
- ==========
+- Version 1.2 [more bug fixes! added newfunctions, check this out in the program client]
 - Version 1.1.4 [fixed error with opening program]
 - Version 1.1 [release, minor changes]
- ==========
 # How to install:
 1. Download .zip and unpack 'em on your desktop.
 2. Open folder
