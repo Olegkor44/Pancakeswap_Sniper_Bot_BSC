@@ -2,6 +2,7 @@
 Pancakeswap Sniper Bot based on BSC.
 # Change Log:
  ==========
+- Version 1.1.4 [fixed error with opening program]
 - Version 1.1 [release, minor changes]
  ==========
 # How to install:
