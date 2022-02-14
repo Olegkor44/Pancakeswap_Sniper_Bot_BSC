@@ -10,3 +10,5 @@ Pancakeswap Sniper Bot based on BSC. Autobuy, autosell custom gas fee, coolest i
 3. Open Pancakeswap_SniperBot_BSC.exe
 4. Next, understand intuitively. If you have questions, click on the help button on the top left.
 5. Enjoy!
+# Contact me:
+IF YOU HAVE ANY TROUBLES/BUGS WITH PROGRAM, YOU CAN TELL ME ABOUT IT ON: melrose9912@gmail.com
